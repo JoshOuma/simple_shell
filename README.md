@@ -14,4 +14,4 @@
 - Handle edge case where you press enter without entering anything.
 - Handle edge case where extra line is printed.
 
-By Uche Ofia and Nousair.
+By Joshua Ouma
